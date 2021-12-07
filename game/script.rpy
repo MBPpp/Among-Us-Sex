@@ -93,8 +93,6 @@ label end:
 
     "this is the second best visual novel of all time"
     
-    "the best one is the final solution"
-    
     "among us red is always watching"
 
 label later:
