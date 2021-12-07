@@ -1,0 +1,12 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/options.rpy", line 32: EOL while scanning string literal
+(Perhaps you left out a " at the end of the first line.)
+    _("perfect story and shit: mbp.
+                                   ^
+    
+
+Ren'Py Version: Ren'Py 7.4.11.2266
+Tue Dec  7 17:57:43 2021
