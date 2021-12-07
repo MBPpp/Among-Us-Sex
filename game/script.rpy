@@ -94,6 +94,8 @@ label end:
     "this is the second best visual novel of all time"
     
     "among us red is always watching"
+    
+    return
 
 label later:
 
@@ -101,6 +103,11 @@ label later:
     with dissolve
 
     "what the fuck why do you not like among us???????????????????????????????"
+    
     "you are the bad sucks"
+    
     "you suck at amongu s and everyone hates!"
+    
     "do better next time please!"
+    
+    return
